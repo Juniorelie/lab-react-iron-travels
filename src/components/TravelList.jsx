@@ -1,0 +1,1 @@
+import travelPlansData from "./../assets/travel-plans.json"
